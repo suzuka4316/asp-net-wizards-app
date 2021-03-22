@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wizards>
+	<Wizard Id="0001">
+		<Name>
+			<FirstName>Tom</FirstName>
+			<LastName>Riddle</LastName>
+		</Name>
+		<School>Hogwarts School of Witchcraft and Wizardly</School>
+		<BloodStatus>Half-blood</BloodStatus>
+		<Occupation>Leader of the Death Eater</Occupation>
+		<Birthday>
+			<Year>1926</Year>
+			<Month>12</Month>
+			<Day>31</Day>
+		</Birthday>
+	</Wizard>
+	<Wizard Id="0002">
+		<Name>
+			<FirstName>Newton</FirstName>
+			<LastName>Scamander</LastName>
+		</Name>
+		<School>Hogwarts School of Witchcraft and Wizardly</School>
+		<BloodStatus>Pure-blood</BloodStatus>
+		<Occupation>Magizoologist</Occupation>
+		<Birthday>
+			<Year>1897</Year>
+			<Month>02</Month>
+			<Day>24</Day>
+		</Birthday>
+	</Wizard>
+	<Wizard Id="0003">
+		<Name>
+			<FirstName>Severus</FirstName>
+			<LastName>Snape</LastName>
+		</Name>
+		<School>Hogwarts School of Witchcraft and Wizardly</School>
+		<BloodStatus>Half-blood</BloodStatus>
+		<Occupation>Professor</Occupation>
+		<Birthday>
+			<Year>1960</Year>
+			<Month>01</Month>
+			<Day>09</Day>
+		</Birthday>
+	</Wizard>
+</Wizards>
